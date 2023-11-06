@@ -15,7 +15,7 @@ The structure of the questions are listed below.
 ## Cycle II
 ### Looping
 - To write a program to print all the prime numbers in a range
-- To write a program to print the sine and cosine series
+- To write a program to print the sine and cosine series ***(not ready)***
 - To write a program to print Pascal's triangle
 ### Arrays
 - To write a program to print the sum and average of elements in an array
@@ -32,8 +32,8 @@ The structure of the questions are listed below.
 - To write a program to print the Fibonacci series using a recursive function
 - To write a program to print the factorial of the given number using a recursive function
 ### Structure
-- To print the mark sheet of n students using structures
+- To print the mark sheet of n students using structures ***(not ready)***
 ### Pointers
 - To write a program using pointers to access the elements of an array and count the number of occurrences of the given number in the array
 ### Files
-- To write a program to count the number of characters, lines in a file
+- To write a program to count the number of characters, and lines in a file ***(not ready)***
