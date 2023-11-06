@@ -37,3 +37,5 @@ The structure of the questions are listed below.
 - To write a program using pointers to access the elements of an array and count the number of occurrences of the given number in the array, [link](Cycle%203/Pointers/Occurances%20in%20Array)
 ### Files
 - To write a program to count the number of characters, and lines in a file ***(not ready)***
+
+***Any of these may or may not change, only till Arrays except bubble sort have been reviewed yet***
