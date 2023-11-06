@@ -22,18 +22,18 @@ The structure of the questions are listed below.
 - To write a program to sort the given numbers using bubble sort, [link](Cycle%202/Arrays/Bubble%20Sort)
 - To write a program to perform Matrix addition and multiplication, [link](Cycle%202/Arrays/Matrix%20Addition%20and%20Multiplication)
 ### String
-- To write a program to perform string manipulation functions like string concatenation, comparison, find the length and string copy without using library functions, [link]()
-- To write a program to arrange names in alphabetical order, [link]()
+- To write a program to perform string manipulation functions like string concatenation, comparison, find the length and string copy without using library functions, [link](Cycle%202/Strings/Manipulations)
+- To write a program to arrange names in alphabetical order, [link](Cycle%202/Strings/Name%20in%20Alphabetical)
 ## Cycle III
 ### Functions
-- To write a C program to calculate the mean, variance, and standard deviation using functions, [link]()
-- To write a C program to perform a sequential and binary search using functions, [link]()
+- To write a C program to calculate the mean, variance, and standard deviation using functions, [link](Cycle%203/Functions/Mean%20Variance%20SD)
+- To write a C program to perform a sequential and binary search using functions, [link](Cycle%203/Functions/Sequential%20and%20Binary%20Search)
 ### Recursion
-- To write a program to print the Fibonacci series using a recursive function, [link]()
-- To write a program to print the factorial of the given number using a recursive function, [link]()
+- To write a program to print the Fibonacci series using a recursive function, [link](Cycle%203/Recursion/Fibonacci)
+- To write a program to print the factorial of the given number using a recursive function, [link](Cycle%203/Recursion/Factorial)
 ### Structure
 - To print the mark sheet of n students using structures ***(not ready)***
 ### Pointers
-- To write a program using pointers to access the elements of an array and count the number of occurrences of the given number in the array, [link]()
+- To write a program using pointers to access the elements of an array and count the number of occurrences of the given number in the array, [link](Cycle%203/Pointers/Occurances%20in%20Array)
 ### Files
 - To write a program to count the number of characters, and lines in a file ***(not ready)***
