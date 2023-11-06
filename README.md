@@ -1,17 +1,17 @@
 # Computer Science Engineering - CUSAT - S1 - Computer Programming - Lab Questions
 All the C Programming-related lab questions in semester 1 of CUSAT under Computer Science Engineering are listed here.
 Any missing questions are due to uncertainty in what the questions mean or because of the probability of the method used being out of the syllabus.
-Such questions will be answered ASAP once the doubts and confusions are cleared
+Such questions will be answered ASAP once the doubts and confusion are cleared
 The structure of the questions are listed below.
 
 ## Cycle I
 ### C Programming Basics
-- To write a program to calculate and display the area of a rectangle and triangle, [link](Cycle%201/C%20Programming%20Basics/Area%20of%20Rectnagle%20and%20Triangle)
+- To write a program to calculate and display the area of a rectangle and triangle, [link](Cycle%201/C%20Programming%20Basics/Area%20of%20Rectangle%20and%20Triangle)
 ### Decision Making
-- To write a program for electricity bill preparation, [link]('Cycle 1/Decision Making/Calculator')
-- To write a program to find the roots of a quadratic equation, [link]()
-- To write a simple menu-driven calculator program using a switch statement, [link]()
-- To write a program to find the sum of digits of a given number, [link]()
+- To write a program for electricity bill preparation, [link](Cycle%201/Decision%20Making/Electricity%20Bill%20Preperation)
+- To write a program to find the roots of a quadratic equation, [link](Cycle%201/Decision%20Making/Quadratic%20Equation)
+- To write a simple menu-driven calculator program using a switch statement, [link](Cycle%201/Decision%20Making/Calculator)
+- To write a program to find the sum of digits of a given number, [link](Cycle%201/Decision%20Making/Sum%20of%20Digits)
 ## Cycle II
 ### Looping
 - To write a program to print all the prime numbers in a range, [link]()
