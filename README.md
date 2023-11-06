@@ -8,7 +8,7 @@ The structure of the questions are listed below.
 ### C Programming Basics
 - To write a program to calculate and display the area of a rectangle and triangle, [link]("Cycle 1/C Programming Basics/Area of Rectnagle and Triangle")
 ### Decision Making
-- To write a program for electricity bill preparation, [link](Cycle 1/Decision Making/Calculator)
+- To write a program for electricity bill preparation, [link]('Cycle 1/Decision Making/Calculator')
 - To write a program to find the roots of a quadratic equation, [link]()
 - To write a simple menu-driven calculator program using a switch statement, [link]()
 - To write a program to find the sum of digits of a given number, [link]()
