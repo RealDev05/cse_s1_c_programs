@@ -1,7 +1,7 @@
 # Computer Science Engineering - CUSAT - S1 - Computer Programming - Lab Questions
 All the C Programming-related lab questions in semester 1 of CUSAT under Computer Science Engineering are listed here.
 Any missing questions are due to uncertainty in what the questions mean or because of the probability of the method used being out of the syllabus.
-Such questions will be answered ASAP once the doubts and confusion are cleared
+Such questions will be answered ASAP once the doubts and confusion are cleared.
 The structure of the questions are listed below.
 
 ## Cycle I
