@@ -14,13 +14,13 @@ The structure of the questions are listed below.
 - To write a program to find the sum of digits of a given number, [link](Cycle%201/Decision%20Making/Sum%20of%20Digits)
 ## Cycle II
 ### Looping
-- To write a program to print all the prime numbers in a range, [link]()
+- To write a program to print all the prime numbers in a range, [link](Cycle%202/Looping/Prime%20in%20range)
 - To write a program to print the sine and cosine series ***(not ready)***
-- To write a program to print Pascal's triangle, [link]()
+- To write a program to print Pascal's triangle, [link](Cycle%202/Looping/Pascals%20Triangle)
 ### Arrays
-- To write a program to print the sum and average of elements in an array, [link]()
-- To write a program to sort the given numbers using bubble sort, [link]()
-- To write a program to perform Matrix addition and Multiplication, [link]()
+- To write a program to print the sum and average of elements in an array, [link](Cycle%202/Arrays/Sum%20and%20Average%20of%20Elements)
+- To write a program to sort the given numbers using bubble sort, [link](Cycle%202/Arrays/Bubble%20Sort)
+- To write a program to perform Matrix addition and multiplication, [link](Cycle%202/Arrays/Matrix%20Addition%20and%20Multiplication)
 ### String
 - To write a program to perform string manipulation functions like string concatenation, comparison, find the length and string copy without using library functions, [link]()
 - To write a program to arrange names in alphabetical order, [link]()
