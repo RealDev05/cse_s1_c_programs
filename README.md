@@ -6,7 +6,7 @@ The structure of the questions are listed below.
 
 ## Cycle I
 ### C Programming Basics
-- To write a program to calculate and display the area of a rectangle and triangle, [link]("Cycle 1/C Programming Basics/Area of Rectnagle and Triangle")
+- To write a program to calculate and display the area of a rectangle and triangle, [link](Cycle%201/C%20Programming%20Basics/Area%20of%20Rectnagle%20and%20Triangle)
 ### Decision Making
 - To write a program for electricity bill preparation, [link]('Cycle 1/Decision Making/Calculator')
 - To write a program to find the roots of a quadratic equation, [link]()
