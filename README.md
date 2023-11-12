@@ -15,7 +15,7 @@ The structure of the questions are listed below.
 ## Cycle II
 ### Looping
 - To write a program to print all the prime numbers in a range, [link](Cycle%202/Looping/Prime%20in%20range)
-- To write a program to print the sine and cosine series ***(not ready)***
+- To write a program to print the sine and cosine series [link](Cycle%202/Looping/Sine%20and%20Cosines)
 - To write a program to print Pascal's triangle, [link](Cycle%202/Looping/Pascals%20Triangle)
 ### Arrays
 - To write a program to print the sum and average of elements in an array, [link](Cycle%202/Arrays/Sum%20and%20Average%20of%20Elements)
