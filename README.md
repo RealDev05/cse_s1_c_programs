@@ -38,4 +38,4 @@ The structure of the questions are listed below.
 ### Files
 - To write a program to count the number of characters, and lines in a file ***(not ready)***
 
-***Any of these may or may not change, only till Arrays except bubble sort have been reviewed yet***
+***Any of these may or may not change, only till Arrays except sin and cosine have been reviewed yet***
