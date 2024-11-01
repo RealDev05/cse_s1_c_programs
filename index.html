@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+
+        body {
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .header {
+            margin-bottom: 24px;
+        }
+
+        h1 {
+            font-size: 24px;
+            color: #333;
+            margin-bottom: 8px;
+        }
+
+        h2 {
+            font-size: 20px;
+            color: #666;
+            margin-bottom: 16px;
+        }
+
+        h3 {
+            font-size: 18px;
+            color: #1a73e8;
+            margin-bottom: 16px;
+        }
+
+        .tabs {
+            margin-bottom: 20px;
+        }
+
+        .tab {
+            padding: 10px 20px;
+            background-color: #f0f0f0;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            margin-right: 10px;
+            font-size: 14px;
+        }
+
+        .tab.active {
+            background-color: #1a73e8;
+            color: white;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #f8f9fa;
+            font-weight: bold;
+            color: #333;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f8f9fa;
+        }
+
+        .notes {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #f8f9fa;
+            border-radius: 4px;
+        }
+
+        .notes h4 {
+            margin-bottom: 10px;
+            color: #333;
+        }
+
+        .notes ul {
+            padding-left: 20px;
+        }
+
+        .notes li {
+            margin-bottom: 5px;
+            color: #666;
+        }
+
+        #practicalSchedule {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>ESIC MC & PGIMSR Rajajinagar, Bangalore-10</h1>
+            <h2>MBBS Batch 2024-2025 (October & November 2024)</h2>
+            <h3>Batch A Schedule</h3>
+        </div>
+
+        <div class="tabs">
+            <button class="tab active" onclick="showSchedule('theorySchedule')">Theory & Lab Schedule</button>
+            <button class="tab" onclick="showSchedule('practicalSchedule')">Biochemistry Practical</button>
+        </div>
+
+        <div id="theorySchedule">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Date</th>
+                        <th>Time</th>
+                        <th>Subject</th>
+                        <th>Topic</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>29/10/2024</td>
+                        <td>2:00-4:00 PM</td>
+                        <td>Anatomy</td>
+                        <td>Microscope & common objects</td>
+                    </tr>
+                    <tr>
+                        <td>04/11/2024</td>
+                        <td>2:00-4:00 PM</td>
+                        <td>Anatomy</td>
+                        <td>Epithelium (AN-65.1, 65.2)</td>
+                    </tr>
+                    <tr>
+                        <td>11/11/2024</td>
+                        <td>2:00-4:00 PM</td>
+                        <td>Anatomy</td>
+                        <td>Connective Tissue (AN-66.1, 66.2)</td>
+                    </tr>
+                    <tr>
+                        <td>18/11/2024</td>
+                        <td>2:00-4:00 PM</td>
+                        <td>Anatomy</td>
+                        <td>Histology of Muscle (AN-67.1,2,3)</td>
+                    </tr>
+                    <tr>
+                        <td>25/11/2024</td>
+                        <td>2:00-4:00 PM</td>
+                        <td>Anatomy</td>
+                        <td>Vessels (AN 69.1 to 63.2)</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div id="practicalSchedule">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Date</th>
+                        <th>Time</th>
+                        <th>Topic</th>
+                        <th>Faculty</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>29/10/2024</td>
+                        <td>02-04 PM</td>
+                        <td>General Instructions to students, Lab safety and biomedical waste disposal</td>
+                        <td>PG- Dr Tabassum, Coordinator- Dr Thara</td>
+                    </tr>
+                    <tr>
+                        <td>5/11/2024</td>
+                        <td>02-04 PM</td>
+                        <td>Preparation of buffer and estimation of pH using pH meter</td>
+                        <td>PG- Dr Sadia Anjum, Coordinator- Dr Thara</td>
+                    </tr>
+                    <tr>
+                        <td>12/11/2024</td>
+                        <td>02-04 PM</td>
+                        <td>Analysis of Normal Urine Instructions & Demonstration</td>
+                        <td>PG-Dr Dinakaran, Coordinator- Dr Veerendra Kumar</td>
+                    </tr>
+                    <tr>
+                        <td>19/11/2024</td>
+                        <td>02-04 PM</td>
+                        <td>Analysis of Normal Urine + Skill assessment</td>
+                        <td>PG-Dr Dinakaran, Coordinator- Dr Veerendra Kumar</td>
+                    </tr>
+                    <tr>
+                        <td>26/11/2024</td>
+                        <td>02-04 PM</td>
+                        <td>Analysis of Abnormal Urine- Instructions & Demonstration</td>
+                        <td>Dr Reny Agnes, Coordinator- Dr Tejomani</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="notes">
+            <h4>Important Notes:</h4>
+            <ul>
+                <li>Regular theory classes are common for all batches</li>
+                <li>Ranaranga 2024: 7th-9th November 2024</li>
+                <li>Advaya 2024: 15th November 2024</li>
+                <li>All PGs in the department to be present in the Practical class</li>
+            </ul>
+        </div>
+    </div>
+
+    <script>
+        function showSchedule(scheduleId) {
+            document.getElementById('theorySchedule').style.display = 'none';
+            document.getElementById('practicalSchedule').style.display = 'none';
+            document.getElementById(scheduleId).style.display = 'block';
+            
+            const tabs = document.getElementsByClassName('tab');
+            for(let tab of tabs) {
+                tab.classList.remove('active');
+            }
+            event.target.classList.add('active');
+        }
+    </script>
+</body>
+</html>
